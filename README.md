@@ -1,4 +1,4 @@
 # repo_demo
 my first git repository.
 <br>
-Prateek singh
+Prateek singh(IIT)
